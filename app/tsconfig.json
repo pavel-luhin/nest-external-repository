@@ -10,10 +10,6 @@
     "sourceMap": true,
     "outDir": "./dist",
     "baseUrl": "./",
-    "incremental": true,
-    "paths": {
-      "common-repo": ["node_modules/common-repo/src"],
-      "common-repo/*": ["node_modules/common-repo/src/*"]
-    }
+    "incremental": true
   }
 }
